@@ -2,7 +2,10 @@
 this is a trial app to learn the recycler viwe and card view.  use thos below code and pics as a ref
 
 
+
 Check out below images for reference.
+# ext Ref. : 
+https://www.youtube.com/watch?v=QRCYzmXZ-QI&t=86s
 
 #Imp files  
 checkout 
