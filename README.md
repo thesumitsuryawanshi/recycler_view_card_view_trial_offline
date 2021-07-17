@@ -7,7 +7,7 @@ Check out below images for reference.
 # ext Ref. : 
 https://www.youtube.com/watch?v=QRCYzmXZ-QI&t=86s
 
-#Imp files  
+# Imp files  
 checkout 
 -  mainactivity.kt 
 - MyAdapterForRecycleriew.kt file
